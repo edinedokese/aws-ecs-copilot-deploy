@@ -23,7 +23,7 @@ Set the deploy method (`manual` | `automatic`). Default `manual`.
 
 ## Example usage
 ```yaml
-- name: Deploy service
+- name: EdinShopy
   uses: fuji97/aws-ecs-copilot-deploy@v1
   with:
     environments: prod
